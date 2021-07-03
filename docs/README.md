@@ -111,10 +111,41 @@
 - 使用技術
   - Frontend
     - JavaScript, TypeScript, Vue.js
+    - StoryBook
 - 担当工程
   - Vue.js と jQuery が併用された状態から Vue.js のみに依存するようにリファクタリング
   - JavaScript から TypeScript へのリプレイス
   - 新規 UI の実装
   - StoryBook のコンポーネントライブラリ作成
+
+#### コーポレートサイト開発
+
+- 使用技術
+  - TypeScript, React.js, Gatsby.js
+  - StoryBook
+  - styled-jsx
+  - Netlify
+- 担当工程
+  - TypeScript + Gatsby.js での SPA 開発
+
+#### 3D ホログラムサイネージ管理システムの開発
+
+- 使用技術
+  - Frontend
+    - TypeScript, React.js
+    - React Query
+    - styled-jsx, Tailwind CSS
+    - StoryBook
+    - Jest, React Testing Library
+  - Backend
+    - C#, .NET Core
+    - MySQL
+  - Infrastructure
+    - AWS, Terraform
+- 担当工程
+  - TypeScript + React.js での SPA 開発
+  - Atomic Design に基づいた React component の開発
+  - StoryBook のコンポーネントライブラリ作成
+  - C# + .NET Core での API 開発
 
 <!-- ## 業務外活動 -->
