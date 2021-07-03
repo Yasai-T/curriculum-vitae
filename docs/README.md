@@ -4,7 +4,7 @@
 
 | key      | value                                                                                                                         |
 | -------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 氏名     | 緑川知輝                                                                                                                      |
+| 氏名     | 緑川知輝 (Tomoki Midorikawa)                                                                                                  |
 | 生年月日 | 1995 年 3 月 28 日                                                                                                            |
 | Github   | [![Twitter URL](https://img.shields.io/badge/Yasai--T-404452?logo=github&style=flat-square)](https://github.com/Yasai-T)      |
 | Twitter  | [![Twitter URL](https://img.shields.io/badge/%40Yasai__T-404452?logo=twitter&style=flat-square)](https://twitter.com/Yasai_T) |
@@ -45,7 +45,7 @@
 
 ## 職務経歴詳細
 
-### 株式会社ソニーコンピュータサイエンス研究所（2019/02-2020/03）
+### 株式会社ソニーコンピュータサイエンス研究所（2019/02-2020/05）
 
 - 2019/02 - 2019/03 Research Assistant（アルバイト）
 - 2019/04 - 2020/03 正社員
@@ -99,10 +99,22 @@
     - GraphQL schema の作成
     - TypeScript + Nest.js での GraphQL API 開発
 
-### B 株式会社（2015/04〜2020/03）
+### 株式会社 MAGNETICA studio（2019/12 - 現在）
 
--
+- 2019/12 - 2020/05 業務委託
+- 2020/06 - 現在 正社員
 
-## 業務外活動
+#### 鍼灸院の予約管理システム開発
 
--
+フロントエンドのリファクタリング、新規機能開発を請け負う。
+
+- 使用技術
+  - Frontend
+    - JavaScript, TypeScript, Vue.js
+- 担当工程
+  - Vue.js と jQuery が併用された状態から Vue.js のみに依存するようにリファクタリング
+  - JavaScript から TypeScript へのリプレイス
+  - 新規 UI の実装
+  - StoryBook のコンポーネントライブラリ作成
+
+<!-- ## 業務外活動 -->
