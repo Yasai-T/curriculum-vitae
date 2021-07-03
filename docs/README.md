@@ -1,4 +1,4 @@
-Table Of Contents
+Table of Contents
 
 - [職務経歴書](#職務経歴書)
   - [基本情報](#基本情報)
