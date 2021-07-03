@@ -4,13 +4,13 @@
   - [技術スタック](#技術スタック)
     - [言語](#言語)
     - [フレームワーク・その他](#フレームワークその他)
+  - [職務経歴概要](#職務経歴概要)
   - [職務経歴詳細](#職務経歴詳細)
-    - [株式会社ソニーコンピュータサイエンス研究所（2019/02-2020/05）](#株式会社ソニーコンピュータサイエンス研究所201902-202005)
+    - [株式会社ソニーコンピュータサイエンス研究所（2019/02 - 2020/05）](#株式会社ソニーコンピュータサイエンス研究所201902---202005)
       - [Web アプリケーション Gear Change β の開発](#web-アプリケーション-gear-change-β-の開発)
       - [Web アプリケーション Piic の開発](#web-アプリケーション-piic-の開発)
     - [株式会社 MAGNETICA studio（2019/12 - 現在）](#株式会社-magnetica-studio201912---現在)
       - [鍼灸院の予約管理システム開発](#鍼灸院の予約管理システム開発)
-      - [コーポレートサイト開発](#コーポレートサイト開発)
       - [3D ホログラムサイネージ運用管理システムの開発](#3d-ホログラムサイネージ運用管理システムの開発)
       - [DAW plugin 3DX の開発](#daw-plugin-3dx-の開発)
       - [3D ホログラムサイネージ在庫管理システムの開発](#3d-ホログラムサイネージ在庫管理システムの開発)
@@ -38,7 +38,7 @@
 
 ### 言語
 
-- TypeScript
+- **TypeScript**
 - JavaScript
 - Ruby
 - PHP
@@ -47,8 +47,8 @@
 
 ### フレームワーク・その他
 
-- React.js
-- Next.js
+- **React.js**
+- **Next.js**
 - Gatsby.js
 - Vue.js
 - Node.js
@@ -61,9 +61,16 @@
 
 ---
 
+## 職務経歴概要
+
+| 会社名                                     | 時期              | 成果                                     |
+| ------------------------------------------ | ----------------- | ---------------------------------------- |
+| 株式会社ソニーコンピュータサイエンス研究所 | 2019/02 - 2020/05 | プログラミング、Web 開発の基礎を習得。   |
+| 株式会社 MAGNETICA studio                  | 2019/12 - 現在    | 様々な受託案件を通して技術の幅を広げた。 |
+
 ## 職務経歴詳細
 
-### 株式会社ソニーコンピュータサイエンス研究所（2019/02-2020/05）
+### 株式会社ソニーコンピュータサイエンス研究所（2019/02 - 2020/05）
 
 - 2019/02 - 2019/03 Research Assistant（アルバイト）
 - 2019/04 - 2020/03 正社員
@@ -75,8 +82,7 @@
   - Frontend
     - TypeScript, React.js
     - Redux, redux-saga
-    - Material-UI, styled-components
-    - StoryBook
+    - Material-UI, styled-components, StoryBook
     - Jest, Enzyme
   - Backend
     - Ruby, Ruby on Rail
@@ -99,8 +105,7 @@
   - Frontend
     - TypeScript, React.js, Next.js
     - Apollo client
-    - Material-UI, styled-components
-    - StoryBook
+    - Material-UI, styled-components, StoryBook
     - Jest, Enzyme
   - Backend
     - TypeScript, Nest.js
@@ -136,24 +141,13 @@
   - 新規 UI の実装
   - StoryBook のコンポーネントライブラリ作成
 
-#### コーポレートサイト開発
-
-- 使用技術
-  - TypeScript, React.js, Gatsby.js
-  - StoryBook
-  - styled-jsx
-  - Netlify
-- 担当工程
-  - TypeScript + Gatsby.js での SPA 開発
-
 #### 3D ホログラムサイネージ運用管理システムの開発
 
 - 使用技術
   - Frontend
     - TypeScript, React.js
     - React Query
-    - styled-jsx, Tailwind CSS
-    - StoryBook
+    - styled-jsx, Tailwind CSS, StoryBook
     - Jest, React Testing Library
   - Backend
     - C#, .NET Core
@@ -179,7 +173,8 @@
 
 #### 3D ホログラムサイネージ在庫管理システムの開発
 
-CRM（HubSpot）と 物流管理システム（オープンロジ）を連携させて、社内業務の円滑化を図る。
+CRM（HubSpot）と 物流管理システム（オープンロジ）を連携させて、クライアントの社内業務の円滑化を目的とした web アプリケーション。
+クライアントとコミュニケーションを取りながら、要件定義、技術選定、設計、開発のリードを行った。
 
 - 使用技術
   - Frontend

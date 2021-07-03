@@ -1,5 +1,8 @@
 # Yasai-T resume
 
+- [Markdown](./docs/README.md)
+- [Web page](https://yasai-t.github.io/curriculum-vitae/)
+
 ## Features
 
 ### 💅 Lint text
