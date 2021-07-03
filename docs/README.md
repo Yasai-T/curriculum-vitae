@@ -128,7 +128,7 @@
 - 担当工程
   - TypeScript + Gatsby.js での SPA 開発
 
-#### 3D ホログラムサイネージ管理システムの開発
+#### 3D ホログラムサイネージ運用管理システムの開発
 
 - 使用技術
   - Frontend
@@ -158,5 +158,26 @@
   - C++, juce を用いた DSP の一部を開発
   - React-JUCE による UI 開発
   - TypeScript + Docusaurus を用いた[ドキュメントサイト](https://docs.novo-notes.com/)の開発
+
+#### 3D ホログラムサイネージ在庫管理システムの開発
+
+CRM（HubSpot）と 物流管理システム（オープンロジ）を連携させて、社内業務の円滑化を図る。
+
+- 使用技術
+  - Frontend
+    - TypeScript, React.js, Next.js
+    - SWR
+    - Material-UI, styled-jsx
+  - Backend
+    - PHP, Laravel
+    - MySQL
+      <!-- - Infrastructure -->
+      <!-- - AWS, Terraform -->
+- 担当工程
+  - フロントエンド
+    - TypeScript + Next.js での SPA 開発
+  - バックエンド
+    - API, DB 設計
+    - PHP + Laravel での API 開発
 
 <!-- ## 業務外活動 -->
