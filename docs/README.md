@@ -34,17 +34,41 @@
 - Gatsby.js
 - Vue.js
 - Node.js
+- Nest.js
 - Ruby on Rails
 - Laravel
 - .NET Core
+- MySQL
+- PostgreSQl
 
 ---
 
 ## 職務経歴詳細
 
-### A株式会社（2020/04〜現在）
+### 株式会社ソニーコンピュータサイエンス研究所（2019/02〜2020/05）
 
--
+#### Web アプリケーション [Gear Change β](https://www.sonycsl.co.jp/tokyo/8281/) の開発
+
+- 使用技術
+  - Frontend
+    - TypeScript, React.js
+    - Redux, redux-saga
+    - Material-UI, styled-components
+    - StoryBook
+    - Jest, Enzyme
+  - Backend
+    - Ruby, Ruby on Rail
+    - MySQL
+  - Infrastructure
+    - Firebase
+- 担当工程
+  - フロントエンド
+    - JavaScript から TypeScript へのリプレイス
+    - Atomic Design に基づいた React component の開発
+  - バックエンド
+    - Ruby on Rails での REST API 開発
+    - Swagger (OpenAPI) を用いた API ドキュメントの記述
+
 
 ### B株式会社（2015/04〜2020/03）
 
