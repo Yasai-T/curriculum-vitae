@@ -148,4 +148,15 @@
   - StoryBook のコンポーネントライブラリ作成
   - C# + .NET Core での API 開発
 
+#### DAW plugin [3DX](https://novo-notes.com/ja/3dx) の開発
+
+- 使用技術
+  - C++, juce
+  - JavaScript, React-JUCE
+  - TypeScript, Docusaurus
+- 担当工程
+  - C++, juce を用いた DSP の一部を開発
+  - React-JUCE による UI 開発
+  - TypeScript + Docusaurus を用いた[ドキュメントサイト](https://docs.novo-notes.com/)の開発
+
 <!-- ## 業務外活動 -->
