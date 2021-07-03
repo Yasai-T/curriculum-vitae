@@ -6,8 +6,8 @@
 |---|---|
 |氏名|緑川知輝|
 |生年月日| 1995 年 3 月 28 日|
-|Github|[![Twitter URL](https://img.shields.io/twitter/url?label=Yasai-T&logo=github&style=flat-square&url=https%3A%2F%2Fgithub.com%2FYasai-T)](https://github.com/Yasai-T)|
-|Twitter|[![Twitter URL](https://img.shields.io/twitter/url?color=orange&label=%40Yasai_T&logo=twitter&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FYasai_T)](https://twitter.com/Yasai_T)|
+|Github|[![Twitter URL](https://img.shields.io/badge/Yasai--T-404452?logo=github&style=flat-square)](https://github.com/Yasai-T)|
+|Twitter|[![Twitter URL](https://img.shields.io/badge/%40Yasai__T-404452?logo=twitter&style=flat-square)](https://twitter.com/Yasai_T)|
 
 ---
 
